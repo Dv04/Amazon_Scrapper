@@ -5,11 +5,9 @@ function App() {
 
   return (
     <div className="App">
-      <div className='text-xl font-bold underline'>
-      “Stars, hide your fires; Let not light see my black and deep desires.”
-― William Shakespeare, Macbeth
+      <div className='text-2xl font-bold'>
+      "How do you make something right, when you made it so wrong you can never go back"
     </div>
-    <div className="btn btn-primary">Primary Build</div>
     </div>
   )
 }
