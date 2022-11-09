@@ -5,9 +5,12 @@ function App() {
 
   return (
     <div className="App">
-      <h1>Hello World</h1>
+      <div className='card'>
+      “Stars, hide your fires; Let not light see my black and deep desires.”
+― William Shakespeare, Macbeth
+    </div>
     </div>
   )
 }
 
-export default App
+export default App;
