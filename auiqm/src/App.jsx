@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className='card'>
+      <div className='text-xl font-bold underline'>
       “Stars, hide your fires; Let not light see my black and deep desires.”
 ― William Shakespeare, Macbeth
     </div>
